@@ -1,0 +1,7 @@
+*.pdf
+*.docx
+tarsau
+*.o
+*.sau
+test_*
+a.sau
